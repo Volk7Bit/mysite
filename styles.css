@@ -1,0 +1,63 @@
+@import "http://fonts.fontstorage.com/import/nautilus.css";
+@import "http://fonts.fontstorage.com/import/comfortaa.css";
+@import "http://fonts.fontstorage.com/import/dryhten.css";
+body {
+    background-color: #D3D3D3;
+}
+.paragraph {
+    font-style: italic;
+    font-weight: 500;
+    font-size: larger;  
+    padding: 30px 20px; 
+
+}
+.annot{
+    font-family: 'Dryhten';
+    font-weight: bold;
+    font-size: 16px;
+    text-indent: 30px;
+    color: #000000;
+}
+
+.h1 {
+    color: #000000;
+    margin: 0 50%;
+    font-family: 'Nautilus Pompilius';
+    font-size: normal;
+}
+h3{
+    font-family: 'Comfortaa';
+   
+}
+#setka {
+    margin: 25px 50%;
+}
+
+.socials{
+    padding: 30px;
+    border:1rem solid;
+    border-width: 10px;
+    border-color: #abbd5c;
+}
+
+a {
+    color: #2F4F4F;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: #0000ff;
+}
+a:active {
+    color: white;
+
+}
+
+a:visited{
+    color:#0963ca;
+}
+
+img {
+    margin: 10px 50%;
+    padding: 10px 5px;
+}
